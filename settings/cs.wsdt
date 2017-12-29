@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>cs_demo/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>1292</Column0><Column1>19</Column1><Column2>8</Column2><Column3>0</Column3></ColumnWidths>
+      <PreferedWindows><Position>0</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>835</ColumnWidth1><ColumnWidth2>190</ColumnWidth2><ColumnWidth3>47</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><PreferedWindows><Position>0</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Workspace</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log><Breakpoints><col-names><item>Breakpoint</item><item>_I0</item></col-names><col-widths><item>500</item><item>35</item></col-widths><PreferedWindows><Position>4</Position><ScreenPosX>435</ScreenPosX><ScreenPosY>142</ScreenPosY><Windows><Window><Factory>Workspace</Factory></Window></Windows></PreferedWindows></Breakpoints><SourceBrowser><PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Workspace</Factory></Window></Windows></PreferedWindows></SourceBrowser><Disassembly><PreferedWindows><Position>4</Position><ScreenPosX>954</ScreenPosX><ScreenPosY>254</ScreenPosY><Windows/></PreferedWindows></Disassembly></Static>
+    <Windows>
+      
+      
+    <Wnd1><Tabs><Tab><Identity>TabID-7663-2248</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\hearts\speed.h</Filename><XPos>0</XPos><YPos>3</YPos><SelStart>483</SelStart><SelEnd>483</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\common\common.h</Filename><XPos>0</XPos><YPos>62</YPos><SelStart>1022</SelStart><SelEnd>1025</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\hearts\include.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>566</SelStart><SelEnd>566</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\oled\oled.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>22546</SelStart><SelEnd>22546</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\direct.c</Filename><XPos>0</XPos><YPos>16</YPos><SelStart>579</SelStart><SelEnd>579</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\speed.c</Filename><XPos>0</XPos><YPos>14</YPos><SelStart>626</SelStart><SelEnd>637</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\projects\fire_dma_demo\isr.c</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>390</SelStart><SelEnd>390</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\hearts\zlcontrol.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>86</SelStart><SelEnd>86</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\zlcontrol.c</Filename><XPos>0</XPos><YPos>81</YPos><SelStart>2541</SelStart><SelEnd>2562</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\projects\fire_dma_demo\calculation.h</Filename><XPos>0</XPos><YPos>37</YPos><SelStart>1212</SelStart><SelEnd>1212</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\uart\uart.c</Filename><XPos>0</XPos><YPos>267</YPos><SelStart>8659</SelStart><SelEnd>8659</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\gpio\gpio.h</Filename><XPos>0</XPos><YPos>22</YPos><SelStart>1062</SelStart><SelEnd>1117</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\hearts\direct.h</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>138</SelStart><SelEnd>138</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\delay\delay.c</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>868</SelStart><SelEnd>868</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\Flash\flash.c</Filename><XPos>0</XPos><YPos>126</YPos><SelStart>3847</SelStart><SelEnd>3847</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\projects\fire_dma_demo\calculation.c</Filename><XPos>0</XPos><YPos>675</YPos><SelStart>16518</SelStart><SelEnd>16518</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\projects\fire_dma_demo\main.c</Filename><XPos>0</XPos><YPos>476</YPos><SelStart>5493</SelStart><SelEnd>5493</SelEnd></Tab><ActiveTab>16</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01170560><key>iaridepm.enu1</key></Toolbar-01170560></Sizes></Row0></Top><Left><Row0><Sizes/></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>197</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>199</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>285920</sizeHorzCY><sizeVertCX>146413</sizeVertCX><sizeVertCY>285920</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

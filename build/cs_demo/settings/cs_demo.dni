@@ -1,0 +1,103 @@
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[DebugChecksum]
+Checksum=-111866950
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[JLinkDriver]
+TraceBufferSize=0x00010000
+TraceStallIfFIFOFull=0x00000000
+TracePortSize=0x00000004
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Trace1]
+Enabled=0
+ShowSource=1
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+Exclusions=
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+A0=_ "C:\Users\heyang\Desktop\4月10可跑\src\projects\fire_dma_demo\main.c" ""
+A1=_ "C:\Users\heyang\Desktop\4月18可跑hb\src\projects\fire_dma_demo\main.c" ""
+A2=_ "C:\Users\heyang\Desktop\4月19可跑hb\src\projects\fire_dma_demo\main.c" ""
+A3=_ "C:\Users\heyang\Desktop\4月29加速用前瞻57,1.2m改搜线法加转向陀螺仪 - 副本 - 副本\src\projects\fire_dma_demo\main.c" ""
+A4=_ "C:\Users\heyang\Desktop\5月17保底精简加转向限幅暂用\src\projects\fire_dma_demo\main.c" ""
+A5=_ "C:\Users\lz\Desktop\4月19可跑zj\src\projects\fire_dma_demo\main.c" ""
+A6=_ "C:\Users\lz\Desktop\4月21可跑zj\src\projects\fire_dma_demo\main.c" ""
+A7=_ "C:\Users\lz\Desktop\4月23差速问题\src\projects\fire_dma_demo\main.c" ""
+A8=_ "C:\Users\lz\Desktop\4月24差速问题\src\projects\fire_dma_demo\main.c" ""
+A9=_ "C:\Users\lz\Desktop\4月29加速用前瞻57,1.2m改搜线法\src\projects\fire_dma_demo\main.c" ""
+A10=_ "C:\Users\lz\Desktop\5月10保底坡道有问题7.82V改\src\projects\fire_dma_demo\main.c" ""
+A11=_ "C:\Users\lz\Desktop\5月17保底精简\src\projects\fire_dma_demo\main.c" ""
+A12=_ "C:\Users\lz\Desktop\5月29保底可用\src\projects\fire_dma_demo\main.c" ""
+A13=_ "C:\Users\lz\Desktop\5月3\src\projects\fire_dma_demo\main.c" ""
+A14=_ "C:\Users\lz\Desktop\5月4\src\projects\fire_dma_demo\main.c" ""
+A15=_ "C:\Users\lz\Desktop\5月4转向P和速度P同时改1.3m\src\projects\fire_dma_demo\main.c" ""
+A16=_ "C:\Users\lz\Desktop\5月5补线120\src\projects\fire_dma_demo\main.c" ""
+A17=_ "C:\Users\lz\Desktop\5月5转向P和速度P同时改1.3m\src\projects\fire_dma_demo\main.c" ""
+A18=_ "C:\Users\lz\Desktop\5月9保底\src\projects\fire_dma_demo\main.c" ""
+A19=_ "C:\Users\lz\Desktop\5月动态中值 换速度控制\src\projects\fire_dma_demo\main.c" ""
+A20=_ "C:\Users\lz\Desktop\6.14改结构可跑\src\projects\fire_dma_demo\main.c" ""
+A21=_ "C:\Users\lz\Desktop\6.19换CCD后速度\src\projects\fire_dma_demo\main.c" ""
+A22=_ "C:\Users\lz\Desktop\6.19暂用\src\common\printf.c" ""
+A23=_ "C:\Users\lz\Desktop\6.19暂用\src\common\startup.c" ""
+A24=_ "C:\Users\lz\Desktop\6.8去右边一个点开大转向限幅，改搜线阈值保底\src\projects\fire_dma_demo\main.c" ""
+A25=_ "C:\Users\lz\Desktop\yong\src\projects\fire_dma_demo\main.c" ""
+A26=_ "C:\Users\lz\Desktop\飞思卡尔\7.19拨码已加 00需调\src\projects\fire_dma_demo\main.c" ""
+A27=_ "C:\Users\lz\Desktop\飞思卡尔\7.20拨码已加 00需调\src\projects\fire_dma_demo\main.c" ""
+A28=_ "C:\Users\lz\Desktop\飞思卡尔\7.22最终待细调\src\projects\fire_dma_demo\main.c" ""
+A29=_ "D:\飞思卡尔10\BF\5月10保底坡道有问题7.82V\src\projects\fire_dma_demo\main.c" ""
+A30=_ "D:\飞思卡尔10\IAR首程序UART5 加CCD时序有问题\src\projects\fire_dma_demo\main.c" ""
+A31=_ "D:\飞思卡尔10\IAR首程序UART5\src\common\startup.c" ""
+A32=_ "D:\飞思卡尔10\IAR首程序UART5\src\cpu\sysinit.c" ""
+A33=_ "D:\飞思卡尔10\IAR首程序UART5加CCD测试时序\src\projects\fire_dma_demo\main.c" ""
+A34=_ "D:\飞思卡尔10\IAR首程序\src\common\startup.c" ""
+A35=_ "D:\飞思卡尔10\IAR首程序\src\cpu\arm_cm4.c" ""
+A36=_ "D:\飞思卡尔10\IAR首程序\src\cpu\sysinit.c" ""
+A37=_ "D:\飞思卡尔10\IAR首程序\src\drivers\mcg\mcg.c" ""
+A38=_ "D:\飞思卡尔10\用\src\projects\fire_dma_demo\main.c" ""
+Count=39
+SuppressDialog=1
